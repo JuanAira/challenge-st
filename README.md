@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tech Stack
+
+- Create React App
+- Typescript
+- Styled components
+
 ## Available Scripts
 
 In the project directory, you can run:
