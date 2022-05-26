@@ -79,7 +79,9 @@ export const UI = {
   COLORS: {
     COLORS_THEME: {
       LIGTH: '#FFFFFF',
+      LIGTH_SECONDARY: '#F5F5F5',
       DARK: '#171B23',
+      DARK_SECONDARY: '#222631',
     },
     'PURPLE-100': '#7598e4',
     'PURPLE-500': '#5b76b1',
