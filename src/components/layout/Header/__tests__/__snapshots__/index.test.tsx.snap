@@ -1,0 +1,281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component should match to snapshot - base - dark 1`] = `
+<div>
+  <header
+    class="sc-dkzDqf iLFJD"
+  >
+    <h1
+      class="sc-hKMtZM gTMcNY"
+      color="#171B23"
+      data-testid="title"
+    >
+      Test
+    </h1>
+    <div
+      class="sc-eCYdqJ RkdUt"
+    >
+      <a
+        class="sc-ftvSup ebRLgE"
+        color="#171B23"
+        tabindex="1"
+      >
+        Link 1
+      </a>
+      <a
+        class="sc-ftvSup ebRLgE"
+        color="#171B23"
+        tabindex="1"
+      >
+        Link 2
+      </a>
+      <a
+        class="sc-ftvSup ebRLgE"
+        color="#171B23"
+        tabindex="1"
+      >
+        Link 3
+      </a>
+      <a
+        class="sc-ftvSup ebRLgE"
+        color="#171B23"
+        tabindex="1"
+      >
+        Link 4
+      </a>
+    </div>
+    <div
+      class="sc-jSMfEi dnCBFt"
+    >
+      <img
+        alt="light theme"
+        class="sc-papXJ gwGOaF"
+        src="night_night_mode_moon_crescent_dark_mode_icon.svg"
+      />
+      <p
+        class="sc-gKXOVf eZouWf"
+        color="#171B23"
+      >
+        Light mode
+      </p>
+      <div
+        style="position: relative; display: inline-block; text-align: left; opacity: 1; direction: ltr; border-radius: 7px; transition: opacity 0.25s; user-select: none;"
+      >
+        <div
+          class="react-switch-bg"
+          style="height: 14px; width: 36px; margin: 3px; position: relative; background: rgb(136, 136, 136); border-radius: 7px; cursor: pointer; transition: background 0.25s;"
+        />
+        <div
+          class="react-switch-handle"
+          style="height: 20px; width: 20px; background: rgb(91, 118, 177); display: inline-block; cursor: pointer; border-radius: 50%; position: absolute; transform: translateX(0px); top: 0px; outline: 0; border: 0px; transition: background-color 0.25s, transform 0.25s, box-shadow 0.15s;"
+        />
+        <input
+          aria-checked="false"
+          id="switch"
+          role="switch"
+          style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px;"
+          type="checkbox"
+        />
+      </div>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Header component should match to snapshot - ligth - mobile 1`] = `
+<div>
+  <header
+    class="sc-dkzDqf flCaaF"
+  >
+    <h1
+      class="sc-hKMtZM gTMcNY"
+      color="#171B23"
+      data-testid="title"
+    >
+      Test
+    </h1>
+    <div
+      class="sc-eCYdqJ RkdUt"
+    >
+      <button
+        class="sc-bczRLJ dlyGG"
+      >
+        <img
+          alt="light theme hamburger"
+          class="sc-gsnTZi ccUHbM"
+          src="elements_hamburger_interface_list_menu_ui_icon_light.svg"
+        />
+      </button>
+    </div>
+    <div
+      class="sc-jSMfEi dnCBFt"
+    >
+      <img
+        alt="light theme"
+        class="sc-papXJ gwGOaF"
+        src="night_night_mode_moon_crescent_dark_mode_icon.svg"
+      />
+      <div
+        style="position: relative; display: inline-block; text-align: left; opacity: 1; direction: ltr; border-radius: 7px; transition: opacity 0.25s; user-select: none;"
+      >
+        <div
+          class="react-switch-bg"
+          style="height: 14px; width: 36px; margin: 3px; position: relative; background: rgb(91, 118, 177); border-radius: 7px; cursor: pointer; transition: background 0.25s;"
+        />
+        <div
+          class="react-switch-handle"
+          style="height: 20px; width: 20px; background: rgb(117, 152, 228); display: inline-block; cursor: pointer; border-radius: 50%; position: absolute; transform: translateX(22px); top: 0px; outline: 0; border: 0px; transition: background-color 0.25s, transform 0.25s, box-shadow 0.15s;"
+        />
+        <input
+          aria-checked="true"
+          checked=""
+          id="switch"
+          role="switch"
+          style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px;"
+          type="checkbox"
+        />
+      </div>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Header component should match to snapshot - ligth 1`] = `
+<div>
+  <header
+    class="sc-dkzDqf iLFJD"
+  >
+    <h1
+      class="sc-hKMtZM gTMcNY"
+      color="#171B23"
+      data-testid="title"
+    >
+      Test
+    </h1>
+    <div
+      class="sc-eCYdqJ RkdUt"
+    >
+      <a
+        class="sc-ftvSup ebRLgE"
+        color="#171B23"
+        tabindex="1"
+      >
+        Link 1
+      </a>
+      <a
+        class="sc-ftvSup ebRLgE"
+        color="#171B23"
+        tabindex="1"
+      >
+        Link 2
+      </a>
+      <a
+        class="sc-ftvSup ebRLgE"
+        color="#171B23"
+        tabindex="1"
+      >
+        Link 3
+      </a>
+      <a
+        class="sc-ftvSup ebRLgE"
+        color="#171B23"
+        tabindex="1"
+      >
+        Link 4
+      </a>
+    </div>
+    <div
+      class="sc-jSMfEi dnCBFt"
+    >
+      <img
+        alt="light theme"
+        class="sc-papXJ gwGOaF"
+        src="night_night_mode_moon_crescent_dark_mode_icon.svg"
+      />
+      <p
+        class="sc-gKXOVf eZouWf"
+        color="#171B23"
+      >
+        Light mode
+      </p>
+      <div
+        style="position: relative; display: inline-block; text-align: left; opacity: 1; direction: ltr; border-radius: 7px; transition: opacity 0.25s; user-select: none;"
+      >
+        <div
+          class="react-switch-bg"
+          style="height: 14px; width: 36px; margin: 3px; position: relative; background: rgb(91, 118, 177); border-radius: 7px; cursor: pointer; transition: background 0.25s;"
+        />
+        <div
+          class="react-switch-handle"
+          style="height: 20px; width: 20px; background: rgb(117, 152, 228); display: inline-block; cursor: pointer; border-radius: 50%; position: absolute; transform: translateX(22px); top: 0px; outline: 0; border: 0px; transition: background-color 0.25s, transform 0.25s, box-shadow 0.15s;"
+        />
+        <input
+          aria-checked="true"
+          checked=""
+          id="switch"
+          role="switch"
+          style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px;"
+          type="checkbox"
+        />
+      </div>
+    </div>
+  </header>
+</div>
+`;
+
+exports[`Header component should match to snapshot - mobile - dark 1`] = `
+<div>
+  <header
+    class="sc-dkzDqf flCaaF"
+  >
+    <h1
+      class="sc-hKMtZM gTMcNY"
+      color="#171B23"
+      data-testid="title"
+    >
+      Test
+    </h1>
+    <div
+      class="sc-eCYdqJ RkdUt"
+    >
+      <button
+        class="sc-bczRLJ dlyGG"
+      >
+        <img
+          alt="light theme hamburger"
+          class="sc-gsnTZi ccUHbM"
+          src="elements_hamburger_interface_list_menu_ui_icon_light.svg"
+        />
+      </button>
+    </div>
+    <div
+      class="sc-jSMfEi dnCBFt"
+    >
+      <img
+        alt="light theme"
+        class="sc-papXJ gwGOaF"
+        src="night_night_mode_moon_crescent_dark_mode_icon.svg"
+      />
+      <div
+        style="position: relative; display: inline-block; text-align: left; opacity: 1; direction: ltr; border-radius: 7px; transition: opacity 0.25s; user-select: none;"
+      >
+        <div
+          class="react-switch-bg"
+          style="height: 14px; width: 36px; margin: 3px; position: relative; background: rgb(136, 136, 136); border-radius: 7px; cursor: pointer; transition: background 0.25s;"
+        />
+        <div
+          class="react-switch-handle"
+          style="height: 20px; width: 20px; background: rgb(91, 118, 177); display: inline-block; cursor: pointer; border-radius: 50%; position: absolute; transform: translateX(0px); top: 0px; outline: 0; border: 0px; transition: background-color 0.25s, transform 0.25s, box-shadow 0.15s;"
+        />
+        <input
+          aria-checked="false"
+          id="switch"
+          role="switch"
+          style="border: 0px; height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px;"
+          type="checkbox"
+        />
+      </div>
+    </div>
+  </header>
+</div>
+`;
